@@ -1,1 +1,4 @@
+.classpath
 /build/
+/tech-exercise/src/hibernate.cfg.xml
+
